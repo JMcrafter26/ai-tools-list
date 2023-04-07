@@ -8,7 +8,7 @@ A list of useful ai tools on github (and on the internet)
  
 - [Introduction](#AI-Tools-List)
 - [Github](#github)
-	- [Thema 1](#thema1)
+	- [Text generation](#thema1)
 	- [Thema 2](#thema2)
 	- [Thema 3](#thema3)
 - [Internet](#internet)	
@@ -27,3 +27,12 @@ A list of useful ai tools on github (and on the internet)
    - A latent text-to-image diffusion model
 
 ## Music generation
+
+- **[Jukebox](https://github.com/openai/jukebox)** by openai
+   - Jukebox: A Generative Model for Music
+
+## Image enchancer
+
+- **[Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)** by xinntao
+   - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+
