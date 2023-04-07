@@ -53,5 +53,7 @@ If you know any useful ai tools on github (that are not listed here) and you wan
 # Stats
 
 <a href="https://github.com/JMcrafter26/ai-tools-list/stargazers" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://shields.io/github/stars/jmcrafter26/ai-tools-list.json&color=FFDB2D&label=Stars" height="20px" alt="Stars " style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/JMcrafter26/ai-tools-list/graphs/contributors" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://img.shields.io/github/contributors/jmcrafter26/ai-tools-list.json&color=blue" height="20px" style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/JMcrafter26/php-badges" target="_blank"><img src="https://api.jm26.net/badge/beta?g&label=Get%20these&icon=f41b&message=COOL%20BADGES&color=de4ff4" height="20px" alt="Get these COOL BADGES" style="display: inline-block; vertical-align: middle;"></a>
 
 Made by a [HUMAN 😵](https://github.com/JMcrafter26)
