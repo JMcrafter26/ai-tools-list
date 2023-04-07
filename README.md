@@ -1,11 +1,12 @@
-# ai-tools-list
+# AI-Tools-List
+
 A list of useful ai tools on github (and on the internet)
 
 <!-- Image -->
 
 ## Table of contents
  
-- [Introduction](#intro)
+- [Introduction](#AI-Tools-List)
 - [Github](#github)
 	- [Thema 1](#thema1)
 	- [Thema 2](#thema2)
@@ -13,7 +14,7 @@ A list of useful ai tools on github (and on the internet)
 - [Internet](#internet)	
 - [End](#end)
 
-# Github (#Github)
+# Github
 
 ## Text generation
 
