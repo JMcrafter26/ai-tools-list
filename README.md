@@ -42,11 +42,12 @@ A list of useful ai tools on github (and on the internet)
 
 Thanks to all these people who made these awesome repositories and shared them online.
 Also huge thanks to people who contributed to this list and helped to expand this list.
+
 All awesome contributers:
 <br/>
 <a href="https://github.com/JMcrafter26/ai-tools-list/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=JMcrafter26/ai-tools-list" /> <a>
 
-If you know useful ai tools on github and you want to join these people on the list, open an issue or pull request.
+If you know any useful ai tools on github (that are not listed here) and you want to join these people on the list, open an issue or pull request.
 
 Made by a human [JMCRAFTER26](https://github.com/JMcrafter26)
