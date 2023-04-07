@@ -8,9 +8,10 @@ A list of useful ai tools on github (and on the internet)
  
 - [Introduction](#AI-Tools-List)
 - [Github](#github)
-	- [Text generation](#thema1)
-	- [Thema 2](#thema2)
-	- [Thema 3](#thema3)
+	- [Text generation](#text-generation)
+	- [Image generation](#image-generation)
+	- [Music generation](#music-generation)
+	- [Image enchancer](#image-enchancer)
 - [Internet](#internet)	
 - [End](#end)
 
@@ -35,4 +36,3 @@ A list of useful ai tools on github (and on the internet)
 
 - **[Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)** by xinntao
    - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
-
