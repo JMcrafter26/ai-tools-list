@@ -18,4 +18,12 @@ A list of useful ai tools on github (and on the internet)
 
 ## Text generation
 
-- 
+- **[Dalai](https://github.com/cocktailpeanut/dalai)** by cocktail peanut
+   - The simplest way to run LLaMA on your local machine
+
+## Image generation 
+
+- **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)** by CompVis
+   - A latent text-to-image diffusion model
+
+## Music generation
