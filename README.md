@@ -50,4 +50,8 @@ All awesome contributers:
 
 If you know any useful ai tools on github (that are not listed here) and you want to join these people on the list, open an issue or pull request.
 
-Made by a human [JMCRAFTER26](https://github.com/JMcrafter26)
+# Stats
+
+<a href="https://github.com/JMcrafter26/ai-tools-list/stargazers" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://shields.io/github/stars/jmcrafter26/ai-tools-list.json&color=FFDB2D&label=Stars" height="20px" alt="Stars " style="display: inline-block; vertical-align: middle;"></a>
+
+Made by a [HUMAN 😵](https://github.com/JMcrafter26)
