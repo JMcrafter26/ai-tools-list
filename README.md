@@ -37,6 +37,11 @@ A list of useful ai tools on github (and on the internet)
 - **[Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)** by xinntao
    - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 
+## Voice changer/cloner
+
+- **[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** by CorentinJ
+   - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
 
 # Thanks
 
