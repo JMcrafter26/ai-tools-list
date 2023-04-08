@@ -4,6 +4,8 @@ A list of useful ai tools on github (and on the internet)
 
 <!-- Image -->
 
+*This list was created a few days ago and does not contain that many tools, so please consider helping to expand the list*
+
 ## Table of contents
  
 - [Introduction](#AI-Tools-List)
