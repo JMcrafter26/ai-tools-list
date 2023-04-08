@@ -14,8 +14,7 @@ A list of useful ai tools on github (and on the internet)
 	- [Image generation](#image-generation)
 	- [Music generation](#music-generation)
 	- [Image enchancer](#image-enchancer)
-        - [Voice changer/cloner(#voice-changer/cloner)
-- [Internet](#internet)	
+	- [Voice changer/cloner](#voice-changercloner)
 - [Thanks](#thanks)
 
 # Github
