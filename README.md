@@ -1,4 +1,4 @@
-# AI-Tools-List
+# AI Tools List
 
 A list of useful ai tools on github (and on the internet)
 
@@ -8,52 +8,45 @@ A list of useful ai tools on github (and on the internet)
 
 ## Table of contents
  
-- [Introduction](#AI-Tools-List)
+- [Introduction](#ai-tools-list)
 - [Github](#github)
 	- [Text generation](#text-generation)
 	- [Image generation](#image-generation)
 	- [Music generation](#music-generation)
 	- [Image enchancer](#image-enchancer)
 	- [Voice changer/cloner](#voice-changercloner)
+- [How to contribute](#how-to-contribute)
 - [Thanks](#thanks)
+- [Stats](#stats)
 
 # Github
 
 ## Text generation
 
-- **[Dalai](https://github.com/cocktailpeanut/dalai)** by cocktail peanut
-   - The simplest way to run LLaMA on your local machine
-
 <a href="https://github.com/cocktailpeanut/dalai" ><img src="https://opengraph.githubassets.com/727/cocktailpeanut/dalai" ></a>
 
 ## Image generation 
-
-- **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)** by CompVis
-   - A latent text-to-image diffusion model
 
 <a href="https://github.com/CompVis/stable-diffusion" ><img src="https://opengraph.githubassets.com/727/CompVis/stable-diffusion" ></a>
 
 ## Music generation
 
-- **[Jukebox](https://github.com/openai/jukebox)** by openai
-   - Jukebox: A Generative Model for Music
-
 <a href="https://github.com/openai/jukebox" ><img src="https://opengraph.githubassets.com/727/openai/jukebox" ></a>
 
 ## Image enchancer
-
-- **[Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)** by xinntao
-   - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 
 <a href="https://github.com/xinntao/Real-ESRGAN" ><img src="https://opengraph.githubassets.com/727/xinntao/Real-ESRGAN" ></a>
 
 ## Voice changer/cloner
 
-- **[Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** by CorentinJ
-   - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
 <a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning"><img src="https://opengraph.githubassets.com/727/CorentinJ/Real-Time-Voice-Cloning"></a>
 
+
+# How to contribute
+
+Open an issue with the template and fill in the information. That's it! 
+
+Another way would be to create a pull request.
 
 # Thanks
 
