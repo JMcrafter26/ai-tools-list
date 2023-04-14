@@ -1,8 +1,6 @@
 # AI Tools List
 
-A list of useful ai tools on github (and on the internet)
-
-# This repo move to: [awesome-ai-tools](https://github.com/JMcrafter26/awesome-ai-tools)
+# This repo moved to: [awesome-ai-tools](https://github.com/JMcrafter26/awesome-ai-tools)
 <br/>
 <br/>
 <br/>
